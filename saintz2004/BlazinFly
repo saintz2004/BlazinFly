@@ -10,8 +10,8 @@
 #   Default Config:
 #      onJoin-FlyReset: true
 #      onDamage-FlyReset: true
-#      fly-enabled: "Flight mode activated"
-#      fly-disabled: "Flight mode deactivated"
+#      fly-enabled: "Flight has been Activated"
+#      fly-disabled: "Flight has been Deactivated"
 #      multi-world: "off"
 #      worlds:
 #       - "world"
@@ -23,10 +23,10 @@ onJoin-FlyReset: true
 onDamage-FlyReset: true
 
 # The below config allows you to send a message to the player when they enable fly
-fly-enabled: "§aFlight mode activated"
+fly-enabled: "§aFlight has been Activated"
 
 # The below config allows you to send a message to the player when they disable fly
-fly-disabled: "§cFlight mode deactivated"
+fly-disabled: "§cFlight has been Deactivated"
 
 # The below config enables multi-world settings (OPTIONS: on and off)
 multi-world: "off"
